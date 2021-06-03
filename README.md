@@ -30,3 +30,11 @@ Wind Speed (mph) vs. Latitude
 ![image-20210602204317431](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210602204317431.png)
 
 The graph depicts the speed of wind for cities as they are closer or father away from the Equator ( 0 degrees latitude). Again, the results do not demonstrate a significant relation between the closeness to the equator and how "windy" a city is. 
+
+
+
+In regards to the linear regression graphs(saved in GitHub). There seems to be strong negative relationship in the northern hemisphere between temperatures and distance (latitude location) from the equator in which a city is. On the other hand,  southern hemisphere shows a strong positive correlation between how close a city is to the equator and its max temperature.
+
+In the remainder of the graphs, one can see there was no sign of signficant/strong correlations between latitude location of a city and humidity, cloudiness nor wind speed. 
+
+#### Part II - VacationPy
